@@ -1,0 +1,25 @@
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: WHITE;
+}
+h1{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+BODY{
+    background-color: rgb(65, 62, 62);
+}
+button{
+    border-radius: 5PX;
+    height: 30PX;
+    width:100PX ;
+    MARGIN:5PX;
+    border: 5PX solid black;
+}
+input{
+    height: 30PX;
+    width: 100PX;
+    border: 5PX SOLID BLACK;
+}
